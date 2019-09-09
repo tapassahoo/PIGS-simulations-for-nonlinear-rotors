@@ -1,6 +1,6 @@
 # A List of simulations has been performed for the estimation of **ground state** properties for many nonlinear rotors systems.
 
-:one: A list of simulations for water molecules
+:one: A list of simulations for **water molecules**
 
 The following parameters has been used for all simulations -
  
@@ -9,15 +9,16 @@ R    = 10.05 Angstrom
 		
 # of Blocks = 20,0000
 # of Pass   = 100
-```
+
 
 Rotational constants are - 
+```
 
    A = 27.877 cm <sup>-1</sup>,
    B = 14.512 cm <sup>-1</sup>,
    C = 9.285 cm <sup>-1</sup>,
 
- Simulations at **fixed tau = 0.01 K<sup>-1</sup>** for **N=2**
+ - [x] Simulations at **fixed tau = 0.01 K<sup>-1</sup>** for **N=2**
 
    Rotational A, B and C constants are 27.877 cm<sup>-1</sup>  14.512<sup>-1</sup>  9.285<sup>-1</sup>, respectively.
 
