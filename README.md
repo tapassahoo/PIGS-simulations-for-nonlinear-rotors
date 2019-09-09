@@ -1,5 +1,3 @@
-# PIGS-simulations-for-nonlinear-rotors
-
 # A List of simulations has been performed for the estimation of **ground state** properties for many nonlinear rotors systems.
 
 List of simulations by using Path Integral Monte Carlo for the estimation of thermodynamic properties of N number of rotors placed in a linear chain.  The following parameters has been used for all simulations -
