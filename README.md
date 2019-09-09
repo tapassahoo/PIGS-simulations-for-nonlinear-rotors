@@ -11,9 +11,9 @@ R    = 10.05 Angstrom
 
 Rotational constants are - 
 
-     A = 27.877 cm<sup>-1</sup>
-     B = 14.512<sup>-1</sup>
-     C = 9.285<sup>-1</sup>
+   A = 27.877 cm <sup>-1</sup>
+   B = 14.512 cm <sup>-1</sup>
+   C = 9.285 cm <sup>-1</sup>
 
 :one: Simulations at **fixed tau = 0.01 K<sup>-1</sup>** for **N=2**
 
