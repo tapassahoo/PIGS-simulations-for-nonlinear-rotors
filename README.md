@@ -32,5 +32,5 @@ Rotational constants are -
    
    ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-tau0.01Kinv-Blocks20000-Passes100-System2H2O-e0vsbeads*~
        
-   Analysis complete: Skipped data first 0
+   Analysis incomplete: Skipped data first 0
 
