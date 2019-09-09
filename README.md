@@ -9,18 +9,14 @@ R    = 10.05 Angstrom
 		
 # of Blocks = 20,0000
 # of Pass   = 100
-
-
-Rotational constants are - 
 ```
 
+Rotational constants are - 
    A = 27.877 cm <sup>-1</sup>,
    B = 14.512 cm <sup>-1</sup>,
    C = 9.285 cm <sup>-1</sup>,
 
- - [x] Simulations at **fixed tau = 0.01 K<sup>-1</sup>** for **N=2**
-
-   Rotational A, B and C constants are 27.877 cm<sup>-1</sup>  14.512<sup>-1</sup>  9.285<sup>-1</sup>, respectively.
+- [x] Simulations at **fixed tau = 0.01 K<sup>-1</sup>** for **N=2**
 
    ```
    Type of potential: 
@@ -32,28 +28,9 @@ Rotational constants are -
    P    = [4, 8, 16, 32, 64, 128] 
    ```		
 		
-   - [x] N = 2,  :+1: **In graham**
-    
-   ~/work/tapas/linear-rotors-PIMC/PIMC-RotDOFs-Rpt10.05Angstrom-DipoleMoment10.0Debye-beta0.05Kinv-Blocks150000-Passes200-System1HF-e0vsbeads*~
-    
-   Analysis complete: Skipped data first 0
-
-:two: Simulations for **Temperature 20 Kelvin** and **N=2**
-
-   ```
-   Type of potential: The interaction potential is modelled by dipole - dipole interactions.
-   ```
-
-   _The list of beads P is_
-    
-   ```
-   P    = [4, 8, 16, 32, 64] 
-   ```		
-		
-   - [x] N = 2, Dipole Moment in Debye = [1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0] :+1: **In Feynman**
-    
-   ~/work/tapas/linear-rotors-PIMC/PIMC-RotDOFs-Rpt10.05Angstrom-DipoleMoment1.0Debye-beta0.05Kinv-Blocks150000-Passes200-System2HF-e0vsbeads*~
-    
-   Analysis complete: Skipped data first 0
-
+   **In graham**
    
+   ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-tau0.01Kinv-Blocks20000-Passes100-System2H2O-e0vsbeads*~
+       
+   Analysis complete: Skipped data first 0
+
