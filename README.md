@@ -9,19 +9,19 @@ R    = 10.05 Angstrom
 # of Pass   = 100
 ```
 
-:one: Simulations for **Temperature 20 Kelvin** and **N=1**
+:one: Simulations at **fixed tau = 0.01 K<sup>-1</sup>** for **N=2**
 
    ```
-   Type of potential: Rotor under the electric field along z--axis
+   Type of potential: 
    ```
 
    _The list of beads P is_
     
    ```
-   P    = [4, 8, 16, 32, 64] 
+   P    = [4, 8, 16, 32, 64, 128] 
    ```		
 		
-   - [x] N = 1, Dipole Moment in Debye = [10.0, 15.0, 20.0] :+1: **In Feynman**
+   - [x] N = 2,  :+1: **In graham**
     
    ~/work/tapas/linear-rotors-PIMC/PIMC-RotDOFs-Rpt10.05Angstrom-DipoleMoment10.0Debye-beta0.05Kinv-Blocks150000-Passes200-System1HF-e0vsbeads*~
     
