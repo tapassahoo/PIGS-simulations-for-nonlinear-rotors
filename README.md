@@ -1,8 +1,7 @@
 # A List of simulations has been performed for the estimation of **ground state** properties for many nonlinear rotors systems.
 
-List of simulations by using Path Integral Monte Carlo for the estimation of thermodynamic properties of N number of rotors placed in a linear chain.  The following parameters has been used for all simulations -
+The following parameters has been used for all simulations -
  
-Rotational A, B and C constants are 27.877 cm<sup>-1</sup>  14.512<sup>-1</sup>  9.285<sup>-1</sup>, respectively.
 ```
 R    = 10.05 Angstrom
 		
@@ -10,7 +9,11 @@ R    = 10.05 Angstrom
 # of Pass   = 100
 ```
 
+Rotational A, B and C constants are 27.877 cm<sup>-1</sup>  14.512<sup>-1</sup>  9.285<sup>-1</sup>, respectively.
+
 :one: Simulations at **fixed tau = 0.01 K<sup>-1</sup>** for **N=2**
+
+   Rotational A, B and C constants are 27.877 cm<sup>-1</sup>  14.512<sup>-1</sup>  9.285<sup>-1</sup>, respectively.
 
    ```
    Type of potential: 
