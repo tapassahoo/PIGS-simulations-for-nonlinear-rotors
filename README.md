@@ -19,7 +19,7 @@ Rotational constants are -
 - [x] Simulations at **fixed tau = 0.01 K<sup>-1</sup>** for **N=2**
 
    ```
-   Type of potential: TIP4-GG
+   Type of potential: caleng_tip4p_gg.f
    ```
 
    _The list of beads P is_
@@ -37,7 +37,7 @@ Rotational constants are -
  - [x] Simulations at **fixed beta = 0.32 K<sup>-1</sup>** for **N=[2-16]**
 
    ```
-   Type of potential: TIP4-GG
+   Type of potential: caleng_tip4p_gg.f
    ```
 
    _The list of beads P is_
