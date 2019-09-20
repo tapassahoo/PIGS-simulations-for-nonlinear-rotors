@@ -48,7 +48,7 @@ Rotational constants are -
 		
    **In graham**
    
-   ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-beta0.01Kinv-Blocks20000-Passes100-System*H2O-e0vsbeads*~
+   ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-beta0.32Kinv-Blocks20000-Passes100-System*H2O-e0vsbeads*~
        
    Analysis incomplete: Skipped data first 0
 
