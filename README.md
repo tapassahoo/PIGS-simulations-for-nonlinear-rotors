@@ -80,7 +80,7 @@ R    = 10.05 Angstrom
        
    Analysis incomplete: Skipped data first 0, 5000. Final results is displayed for 5000.
    
-:two: A list of simulations for ** one water molecule**
+:two: A list of simulations for **one water molecule**
 
 The following parameters has been used for all simulations -
  
@@ -91,11 +91,6 @@ R    = 10.05 Angstrom
 # of Pass   = 100
 ```
 
-Rotational constants are - 
-   A = 27.877 cm <sup>-1</sup>,
-   B = 14.512 cm <sup>-1</sup>,
-   C = 9.285 cm <sup>-1</sup>,
-
 - [x] Simulations at **fixed tau = 0.002 K<sup>-1</sup>** for **N=1**
 
    ```
@@ -105,16 +100,16 @@ Rotational constants are -
    _The list of beads P is_
     
    ```
-   P    = [4, 8, 16, 32, 64, 128, 256] 
+   P    = [5, 9, 17, 33, 65, 129, 257] 
    ```		
 		
    **In graham**
    
-   ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field20.0Kinv-tau0.01Kinv-Blocks20000-Passes100-System1-p-H2O-e0vsbeads*~
+   ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field20.0Kinv-tau0.002Kinv-Blocks20000-Passes100-System1-p-H2O-e0vsbeads*~
        
-   Analysis incomplete: Skipped data first 0, 10000. Final result is shown for 50000.
+   Analysis incomplete: Skipped data first 0, 10000. Final result is shown for 10000.
    
- - [x] Simulations at **fixed beta = [0.128, 0.256] K<sup>-1</sup>** for **N=[1]**
+ - [x] Simulations at **fixed beta = [0.128, 0.256] K<sup>-1</sup>** for **N=1**
 
    ```
    Type of potential: -F.cos(theta); F=20 inverse Kelvin
@@ -128,8 +123,9 @@ Rotational constants are -
 		
    **In graham**
    
-   ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-beta0.128Kinv-Blocks10000-Passes100-System1-p-H2O-e0vsbeads*~
+   ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field20.0Kinv-beta0.128Kinv-Blocks10000-Passes100-System1-p-H2O-e0vsbeads*~
+   ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field20.0Kinv-beta0.128Kinv-Blocks10000-Passes100-System1-p-H2O-e0vsbeads*~
        
-   Analysis incomplete: Skipped data first 0
+   Analysis incomplete: Skipped data first 0, 5000. Final results are shown for preskip 5000.
    
 
