@@ -53,9 +53,7 @@ Rotational constants are -
    Analysis incomplete: Skipped data first 0
    
    
-:two: A list of simulations for **water molecules**
-
-The following parameters has been used for all simulations -
+The following parameters has been used for the below simulations -
  
 ```
 R    = 10.05 Angstrom
@@ -63,11 +61,6 @@ R    = 10.05 Angstrom
 # of Blocks = 10,000
 # of Pass   = 50
 ```
-
-Rotational constants are - 
-   A = 27.877 cm <sup>-1</sup>,
-   B = 14.512 cm <sup>-1</sup>,
-   C = 9.285 cm <sup>-1</sup>,
    
  - [x] Simulations at **fixed beta = 0.256 K<sup>-1</sup>** for **N=[2]**
 
