@@ -139,6 +139,8 @@ R    = 10.05 Angstrom
    _The list of beads P is_
     
    ```
+   # of Blocks = 20,000
+   # of Pass   = 50
    P    = [5, 9, 17, 33, 65, 129, 257] 
    ```		
    
