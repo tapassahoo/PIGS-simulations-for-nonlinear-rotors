@@ -123,9 +123,13 @@ R    = 10.05 Angstrom
 		
    **In graham**
    
-   ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field20.0Kinv-beta0.128Kinv-Blocks10000-Passes100-System1-p-H2O-e0vsbeads*~
-   ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field20.0Kinv-beta0.128Kinv-Blocks10000-Passes100-System1-p-H2O-e0vsbeads*~
-       
-   Analysis incomplete: Skipped data first 0, 5000. Final results are shown for preskip 5000.
+   ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field20.0Kinv-beta0.128Kinv-Blocks10000-Passes50-System1-p-H2O-e0vsbeads*~
+   ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field20.0Kinv-beta0.256Kinv-Blocks10000-Passes50-System1-p-H2O-e0vsbeads*~
+   
+   Averaged over all passes in MC simulations. 
+   Analysis complete: Skipped data first 0, 5000. Final results are shown for preskip 5000.
+   
+   N.B.: for beta=0.256 inverse Kelvin cases, the data for P=513 should be removed as the energy is not converged. 
+   
    
 
