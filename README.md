@@ -133,7 +133,7 @@ R    = 10.05 Angstrom
    N.B.: for beta=0.256 inverse Kelvin cases, the data for P=513 should be removed as the energy is not converged. 
    
    
-   #-----------------------------------------------------------------------------------------------------------------#
+   -----------------------------------------------------------------------------------------------------------------
    ```
    Type of potential: -F.cos(theta); F=[10, 30, 40, 50] inverse Kelvin
    ```
@@ -145,9 +145,7 @@ R    = 10.05 Angstrom
    **Expectation values are estimated at the last MC Pass in MC simulations.**
    ```
    
-   ```   
-   _The list of beads P is_
-   
+   ```      
    P    = [5, 9, 17, 33, 65, 129, 257] 
    ```		
    
@@ -161,6 +159,53 @@ R    = 10.05 Angstrom
    
     
    Analysis incomplete: Skipped data first 0, 5000. Final results are shown for preskip 5000.
+   
+   
+   -----------------------------------------------------------------------------------------------------------------
+   ```
+   Type of potential: -F.cos(theta); F=[10, 50] inverse Kelvin
+   ```
+
+   ```
+   MC Blocks=10,000
+   MC Pass=100
+   
+   **Expectation values are estimated at the last MC Pass in MC simulations.**
+   ```
+   
+   ```      
+   P    = [5, 9, 17, 33, 65, 129, 257] 
+   ```		
+   
+   - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field10.0Kinv-beta0.256Kinv-Blocks10000-Passes100-System1-p-H2O-e0vsbeads*~
+   
+   - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field50.0Kinv-beta0.256Kinv-Blocks10000-Passes100-System1-p-H2O-e0vsbeads*~
+   
+    
+   Analysis incomplete: Skipped data first 0, 5000. Final results are shown for preskip 5000.   
+   
+   -----------------------------------------------------------------------------------------------------------------
+   ```
+   Type of potential: -F.cos(theta); F=[10, 50] inverse Kelvin
+   ```
+
+   ```
+   MC Blocks=10,000
+   MC Pass=100
+   
+   **Expectation values are estimated at the last MC Pass in MC simulations.**
+   ```
+   
+   ```      
+   P    = [5, 9, 17, 33, 65, 129, 257] 
+   ```		
+   
+   - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field10.0Kinv-beta0.256Kinv-Blocks5000-Passes200-System1-p-H2O-e0vsbeads*~
+   
+   - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field50.0Kinv-beta0.256Kinv-Blocks5000-Passes200-System1-p-H2O-e0vsbeads*~
+   
+    
+   Analysis incomplete: Skipped data first 0, 5000. Final results are shown for preskip 5000.   
    
   
    
