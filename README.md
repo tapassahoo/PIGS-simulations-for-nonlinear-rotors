@@ -53,18 +53,9 @@ Rotational constants are -
    Analysis incomplete: Skipped data first 0
    
    
-The following parameters has been used for the below simulations -
- 
-```
-R    = 10.05 Angstrom
-		
-# of Blocks = 10,000
-# of Pass   = 50
-```
-   
  - [x] Simulations at **fixed beta = 0.256 K<sup>-1</sup>** for **N=2**
 
-  -----------------------------------------------------------------------------------------------------------------
+   -----------------------------------------------------------------------------------------------------------------
    ```
    Type of potential: caleng_tip4p_gg.f;   unit: inverse Kelvin
    ```
