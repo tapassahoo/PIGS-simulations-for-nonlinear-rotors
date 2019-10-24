@@ -110,32 +110,10 @@ R    = 10.05 Angstrom
    Analysis incomplete: Skipped data first 0, 10000. Final result is shown for 10000.
    
  - [x] Simulations at **fixed beta = [0.128, 0.256] K<sup>-1</sup>** for **N=1**
-
-   ```
-   Type of potential: -F.cos(theta); F=20 inverse Kelvin
-   ```
-
-   _The list of beads P is_
-    
-   ```
-   P    = [5, 9, 17, 33, 65, 129, 257, 513] 
-   ```		
-		
-   **In graham**
-   
-   - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field20.0Kinv-beta0.128Kinv-Blocks10000-Passes50-System1-p-H2O-e0vsbeads*~
-   
-   - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field20.0Kinv-beta0.256Kinv-Blocks10000-Passes50-System1-p-H2O-e0vsbeads*~
-   
-   Averaged over all passes in MC simulations. 
-   Analysis complete: Skipped data first 0, 5000. Final results are shown for preskip 5000.
-   
-   N.B.: for beta=0.256 inverse Kelvin cases, the data for P=513 should be removed as the energy is not converged. 
-   
    
    -----------------------------------------------------------------------------------------------------------------
    ```
-   Type of potential: -F.cos(theta); F=[10, 30, 40, 50] inverse Kelvin
+   Type of potential: -F.cos(theta); F=[10, 20, 30, 40, 50] inverse Kelvin
    ```
 
    ```
@@ -150,6 +128,8 @@ R    = 10.05 Angstrom
    ```		
    
    - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field10.0Kinv-beta0.256Kinv-Blocks20000-Passes50-System1-p-H2O-e0vsbeads*~
+   
+   - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field20.0Kinv-beta0.256Kinv-Blocks20000-Passes50-System1-p-H2O-e0vsbeads*~
    
    - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field30.0Kinv-beta0.256Kinv-Blocks20000-Passes50-System1-p-H2O-e0vsbeads*~
    
@@ -179,6 +159,12 @@ R    = 10.05 Angstrom
    
    - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field10.0Kinv-beta0.256Kinv-Blocks10000-Passes100-System1-p-H2O-e0vsbeads*~
    
+   - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field20.0Kinv-beta0.256Kinv-Blocks10000-Passes100-System1-p-H2O-e0vsbeads*~
+   
+   - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field30.0Kinv-beta0.256Kinv-Blocks10000-Passes100-System1-p-H2O-e0vsbeads*~
+   
+   - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field40.0Kinv-beta0.256Kinv-Blocks10000-Passes100-System1-p-H2O-e0vsbeads*~
+   
    - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field50.0Kinv-beta0.256Kinv-Blocks10000-Passes100-System1-p-H2O-e0vsbeads*~
    
     
@@ -190,8 +176,8 @@ R    = 10.05 Angstrom
    ```
 
    ```
-   MC Blocks=10,000
-   MC Pass=100
+   MC Blocks=5000
+   MC Pass=200
    
    **Expectation values are estimated at the last MC Pass in MC simulations.**
    ```
@@ -202,10 +188,16 @@ R    = 10.05 Angstrom
    
    - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field10.0Kinv-beta0.256Kinv-Blocks5000-Passes200-System1-p-H2O-e0vsbeads*~
    
+   - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field20.0Kinv-beta0.256Kinv-Blocks5000-Passes200-System1-p-H2O-e0vsbeads*~
+   
+   - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field30.0Kinv-beta0.256Kinv-Blocks5000-Passes200-System1-p-H2O-e0vsbeads*~
+   
+   - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field40.0Kinv-beta0.256Kinv-Blocks5000-Passes200-System1-p-H2O-e0vsbeads*~
+   
    - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field50.0Kinv-beta0.256Kinv-Blocks5000-Passes200-System1-p-H2O-e0vsbeads*~
    
     
-   Analysis incomplete: Skipped data first 0, 5000. Final results are shown for preskip 5000.   
+   Analysis incomplete: Skipped data first 0. Final results are shown for preskip 0.   
    
   
    
