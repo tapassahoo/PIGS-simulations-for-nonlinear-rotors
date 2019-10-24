@@ -68,17 +68,51 @@ R    = 10.05 Angstrom
    Type of potential: caleng_tip4p_gg.f
    ```
 
-   _The list of beads P is_
-    
+   -----------------------------------------------------------------------------------------------------------------
    ```
-   P    = [4, 8, 16, 32, 64, 128, 256] 
-   ```		
-		
-   **In graham**
+   Type of potential: caleng_tip4p_gg.f;   unit: inverse Kelvin
+   ```
    
-   ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-beta0.256Kinv-Blocks10000-Passes50-System2-p-H2O-e0vsbeads*~
-       
-   Analysis incomplete: Skipped data first 0, 5000. Final results is displayed for 5000.
+   ```      
+   P    = [5, 9, 17, 33, 65, 129, 257] 
+   ```		
+   
+   -----------------------------------------------------------------------------------------------------------------
+   
+    ```
+   MC Blocks=20,000
+   MC Pass=50
+   
+   **Expectation values are estimated at the last MC Pass in MC simulations.**
+   ```
+   
+   - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-beta0.256Kinv-Blocks20000-Passes50-System2-p-H2O-e0vsbeads*~
+   
+   Analysis incomplete: Skipped data first 0, 5000. Final results are shown for preskip 5000.
+   
+   
+   -----------------------------------------------------------------------------------------------------------------
+  
+   ```
+   MC Blocks=10,000
+   MC Pass=100
+   ```		
+   
+   - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-beta0.256Kinv-Blocks10000-Passes100-System2-p-H2O-e0vsbeads*~
+   
+      
+   Analysis incomplete: Skipped data first 0, 5000. Final results are shown for preskip 5000.   
+   
+   -----------------------------------------------------------------------------------------------------------------
+   
+   ```
+   MC Blocks=5000
+   MC Pass=200
+   ```
+   
+   - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-beta0.256Kinv-Blocks5000-Passes200-System2-p-H2O-e0vsbeads*~
+   
+      Analysis incomplete: Skipped data first 0. Final results are shown for preskip 0.   
    
 :two: A list of simulations for **one water molecule**
 
