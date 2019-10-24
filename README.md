@@ -115,17 +115,19 @@ R    = 10.05 Angstrom
    ```
    Type of potential: -F.cos(theta); F=[10, 20, 30, 40, 50] inverse Kelvin
    ```
-
-   ```
+   
+   ```      
+   P    = [5, 9, 17, 33, 65, 129, 257] 
+   ```		
+   
+   -----------------------------------------------------------------------------------------------------------------
+   
+    ```
    MC Blocks=20,000
    MC Pass=50
    
    **Expectation values are estimated at the last MC Pass in MC simulations.**
    ```
-   
-   ```      
-   P    = [5, 9, 17, 33, 65, 129, 257] 
-   ```		
    
    - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field10.0Kinv-beta0.256Kinv-Blocks20000-Passes50-System1-p-H2O-e0vsbeads*~
    
@@ -142,19 +144,10 @@ R    = 10.05 Angstrom
    
    
    -----------------------------------------------------------------------------------------------------------------
-   ```
-   Type of potential: -F.cos(theta); F=[10, 50] inverse Kelvin
-   ```
-
+  
    ```
    MC Blocks=10,000
    MC Pass=100
-   
-   **Expectation values are estimated at the last MC Pass in MC simulations.**
-   ```
-   
-   ```      
-   P    = [5, 9, 17, 33, 65, 129, 257] 
    ```		
    
    - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field10.0Kinv-beta0.256Kinv-Blocks10000-Passes100-System1-p-H2O-e0vsbeads*~
@@ -171,20 +164,11 @@ R    = 10.05 Angstrom
    Analysis incomplete: Skipped data first 0, 5000. Final results are shown for preskip 5000.   
    
    -----------------------------------------------------------------------------------------------------------------
-   ```
-   Type of potential: -F.cos(theta); F=[10, 50] inverse Kelvin
-   ```
-
+   
    ```
    MC Blocks=5000
    MC Pass=200
-   
-   **Expectation values are estimated at the last MC Pass in MC simulations.**
    ```
-   
-   ```      
-   P    = [5, 9, 17, 33, 65, 129, 257] 
-   ```		
    
    - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field10.0Kinv-beta0.256Kinv-Blocks5000-Passes200-System1-p-H2O-e0vsbeads*~
    
