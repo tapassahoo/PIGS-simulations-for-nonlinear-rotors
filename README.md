@@ -62,13 +62,9 @@ R    = 10.05 Angstrom
 # of Pass   = 50
 ```
    
- - [x] Simulations at **fixed beta = 0.256 K<sup>-1</sup>** for **N=[2]**
+ - [x] Simulations at **fixed beta = 0.256 K<sup>-1</sup>** for **N=2**
 
-   ```
-   Type of potential: caleng_tip4p_gg.f
-   ```
-
-   -----------------------------------------------------------------------------------------------------------------
+  -----------------------------------------------------------------------------------------------------------------
    ```
    Type of potential: caleng_tip4p_gg.f;   unit: inverse Kelvin
    ```
