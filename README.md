@@ -101,6 +101,45 @@ Rotational constants are -
    
       Analysis incomplete: Skipped data first 0. Final results are shown for preskip 0.   
    
+ - [x] Simulations at **fixed beta = 0.256 K<sup>-1</sup>** for **N=[2, 4, 6, 8, 10, 12, 14, 16]**
+
+   -----------------------------------------------------------------------------------------------------------------
+   ```
+   Type of potential: caleng_tip4p_gg.f;   unit: inverse Kelvin
+   ```
+   
+   ```      
+   P    = [5, 9, 17, 33, 65, 129, 257] 
+   ```		
+   
+   -----------------------------------------------------------------------------------------------------------------
+   
+    ```
+   MC Blocks=40,000
+   MC Pass=100
+   
+   **Expectation values are estimated at the last MC Pass in MC simulations.**
+   ```
+   
+   - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-beta0.256Kinv-Blocks40000-Passes100-System2-p-H2O-e0vsbeads*~
+   
+   - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-beta0.256Kinv-Blocks40000-Passes100-System4-p-H2O-e0vsbeads*~
+   
+   - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-beta0.256Kinv-Blocks40000-Passes100-System6-p-H2O-e0vsbeads*~
+   
+   - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-beta0.256Kinv-Blocks40000-Passes100-System8-p-H2O-e0vsbeads*~
+   
+   - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-beta0.256Kinv-Blocks40000-Passes100-System10-p-H2O-e0vsbeads*~
+   
+   - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-beta0.256Kinv-Blocks40000-Passes100-System12-p-H2O-e0vsbeads*~
+   
+   - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-beta0.256Kinv-Blocks40000-Passes100-System14-p-H2O-e0vsbeads*~
+   
+   - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-beta0.256Kinv-Blocks40000-Passes100-System16-p-H2O-e0vsbeads*~
+   
+   Analysis incomplete: Skipped data first 0, 20000, 30000, 35000. Final results are shown for preskip 0.
+   
+   
 :two: A list of simulations for **one water molecule**
 
 The following parameters has been used for all simulations -
