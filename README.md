@@ -169,7 +169,7 @@ R    = 10.05 Angstrom
        
    Analysis incomplete: Skipped data first 0, 10000. Final result is shown for 10000.
    
- - [x] Simulations at **fixed beta = [0.128, 0.256] K<sup>-1</sup>** for **N=1**
+ - [x] Simulations at **fixed beta = 0.256 K<sup>-1</sup>** for **N=1**
    
    -----------------------------------------------------------------------------------------------------------------
    ```
@@ -200,7 +200,7 @@ R    = 10.05 Angstrom
    - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field50.0Kinv-beta0.256Kinv-Blocks20000-Passes50-System1-p-H2O-e0vsbeads*~
    
     
-   Analysis incomplete: Skipped data first 0, 5000. Final results are shown for preskip 5000.
+   Analysis complete: no of lines skipped from the begining are 0, 10000, 15000.
    
    
    -----------------------------------------------------------------------------------------------------------------
