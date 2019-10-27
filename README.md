@@ -200,7 +200,7 @@ R    = 10.05 Angstrom
    - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field50.0Kinv-beta0.256Kinv-Blocks20000-Passes50-System1-p-H2O-e0vsbeads*~
    
     
-   Analysis complete: no of lines skipped from the begining are 0, 10000, 15000.
+   Analysis complete: Final results are esimated after skipping 0, 10000 and 15000 lines from the begining.
    
    
    -----------------------------------------------------------------------------------------------------------------
@@ -221,7 +221,7 @@ R    = 10.05 Angstrom
    - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field50.0Kinv-beta0.256Kinv-Blocks10000-Passes100-System1-p-H2O-e0vsbeads*~
    
     
-   Analysis complete: number of lines skipped from the begining are 0, 10000, 15000. Final results are shown for preskip 5000.   
+   Analysis complete: Final results are esimated after skipping 0, 10000 lines from the begining.   
    
    -----------------------------------------------------------------------------------------------------------------
    
@@ -232,8 +232,6 @@ R    = 10.05 Angstrom
    
    - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field10.0Kinv-beta0.256Kinv-Blocks5000-Passes200-System1-p-H2O-e0vsbeads*~
    
-   - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field20.0Kinv-beta0.256Kinv-Blocks5000-Passes200-System1-p-H2O-e0vsbeads*~
-   
    - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field30.0Kinv-beta0.256Kinv-Blocks5000-Passes200-System1-p-H2O-e0vsbeads*~
    
    - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field40.0Kinv-beta0.256Kinv-Blocks5000-Passes200-System1-p-H2O-e0vsbeads*~
@@ -241,7 +239,7 @@ R    = 10.05 Angstrom
    - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field50.0Kinv-beta0.256Kinv-Blocks5000-Passes200-System1-p-H2O-e0vsbeads*~
    
     
-   Analysis incomplete: Skipped data first 0. Final results are shown for preskip 0.   
+   Analysis complete: Final result is esimated after skipping 0 lines from the begining.  
    
   
    
