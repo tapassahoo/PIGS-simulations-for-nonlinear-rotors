@@ -221,7 +221,7 @@ R    = 10.05 Angstrom
    - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-Field50.0Kinv-beta0.256Kinv-Blocks10000-Passes100-System1-p-H2O-e0vsbeads*~
    
     
-   Analysis incomplete: Skipped data first 0, 5000. Final results are shown for preskip 5000.   
+   Analysis complete: number of lines skipped from the begining are 0, 10000, 15000. Final results are shown for preskip 5000.   
    
    -----------------------------------------------------------------------------------------------------------------
    
