@@ -62,15 +62,27 @@ Rotational constants are -
    
    - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-beta0.256Kinv-Blocks40000-Passes100-System6-p-H2O-e0vsbeads*~
    
+   P=65, 129 are not completed!
+   
    - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-beta0.256Kinv-Blocks40000-Passes100-System8-p-H2O-e0vsbeads*~
+   
+   P=65, 129 are not completed!
    
    - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-beta0.256Kinv-Blocks40000-Passes100-System10-p-H2O-e0vsbeads*~
    
+   P=65, 129 are not completed!
+   
    - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-beta0.256Kinv-Blocks40000-Passes100-System12-p-H2O-e0vsbeads*~
+   
+   P=65, 129 are not completed!
    
    - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-beta0.256Kinv-Blocks40000-Passes100-System14-p-H2O-e0vsbeads*~
    
+   P=65, 129 are not completed!
+   
    - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-beta0.256Kinv-Blocks40000-Passes100-System16-p-H2O-e0vsbeads*~
+   
+   P=65, 129 are not completed!
    
    Analysis incomplete: Skipped data first 0, 20000, 30000, 35000. Final results are shown for preskip 0.
    
