@@ -56,6 +56,8 @@ Rotational constants are -
    
    - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-beta0.256Kinv-Blocks40000-Passes100-System2-p-H2O-e0vsbeads*~
    
+   P=257 is not finished!
+   
    - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-beta0.256Kinv-Blocks40000-Passes100-System4-p-H2O-e0vsbeads*~
    
    - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt10.05Angstrom-beta0.256Kinv-Blocks40000-Passes100-System6-p-H2O-e0vsbeads*~
