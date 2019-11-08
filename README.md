@@ -8,6 +8,7 @@ Rotational constants are -
    C = 9.285 cm <sup>-1</sup>,
 
 Type of potential: caleng_tip4p_gg.f;   unit: inverse Kelvin
+
 -----------------------------------------------------------------------------------------------------------------
 - [x] Simulations for **N=10** at **fixed tau = 0.004 K<sup>-1</sup>**
 
@@ -30,8 +31,6 @@ Type of potential: caleng_tip4p_gg.f;   unit: inverse Kelvin
    -----------------------------------------------------------------------------------------------------------------
    
  - [x] Simulations for **N=10** at **fixed beta = 0.2 K<sup>-1</sup>**
-
-   
    
    ```      
    P = [11, 21, 31, 41, 51, 61, 71, 81, 91, 101] 
@@ -40,17 +39,21 @@ Type of potential: caleng_tip4p_gg.f;   unit: inverse Kelvin
    - A set of nearest neighbouring distances - 
    
    ```
+   
    r = [2.0, 2.2, 2.4, 2.6, 2.8, 3.0, 3.2, 3.4, 3.6, 3.8, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0]
+   
    ```
    
-   -----------------------------------------------------------------------------------------------------------------
+   ```
    
-    ```
    MC Blocks=20,000
    MC Pass=100
    
    **Expectation values are estimated at the last MC Pass in MC simulations.**
+   
    ```
+   
+   - Data stored in **graham**
    
    - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-RptrVALUEAngstrom-beta0.2Kinv-Blocks20000-Passes100-System10-p-H2O-e0vsbeads*~
    
