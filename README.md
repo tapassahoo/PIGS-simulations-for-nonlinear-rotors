@@ -70,10 +70,11 @@ Rotational constants are -
    self.step = [0.6, 0.4, 0.3, 0.25, 0.20, 0.20, 0.15, 0.15, 0.15, 0.15] r = 5.0 Angstrom
    self.step = [0.4, 0.4, 0.3, 0.25, 0.20, 0.20, 0.15, 0.15, 0.15, 0.15] r = 4.0 Angstrom
    self.step = [0.1, 0.12, 0.16, 0.18, 0.20, 0.20, 0.15, 0.15, 0.15, 0.15] r = 3.0 Angstrom
-   self.step = [0.08, 0.10, 0.12, 0.12, 0.12, 0.12, 0.15, 0.15, 0.15, 0.15] r = [2.6, 2.8] Angstrom   
+   self.step = [0.08, 0.10, 0.12, 0.12, 0.12, 0.12, 0.15, 0.15, 0.15, 0.15] r = [2.6, 2.8] Angstrom 
+   self.step = [0.05, 0.06, 0.08, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1] r = [2.2, 2.4] Angstrom
    ```
    
-   Analysis incomplete: Skipped data from the begining - 0, 10000, 15000. Final results are shown for preskip 0.
+   - Analysis incomplete: Skipped data from the begining - 0, 10000, 15000. Final results are shown for preskip 0.
    
    
  - [x] Simulations at **fixed beta = 0.256 K<sup>-1</sup>** for **N=[2, 4, 6, 8, 10, 12, 14, 16]**
