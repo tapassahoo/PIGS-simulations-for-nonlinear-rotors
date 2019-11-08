@@ -7,25 +7,19 @@ Rotational constants are -
    B = 14.512 cm <sup>-1</sup>,
    C = 9.285 cm <sup>-1</sup>,
 
-- [x] Simulations at **fixed tau = 0.004 K<sup>-1</sup>** for **N=2**
+Type of potential: caleng_tip4p_gg.f;   unit: inverse Kelvin
+-----------------------------------------------------------------------------------------------------------------
+- [x] Simulations for **N=10** at **fixed tau = 0.004 K<sup>-1</sup>**
 
-   -----------------------------------------------------------------------------------------------------------------
-   ```
-   Type of potential: caleng_tip4p_gg.f;   unit: inverse Kelvin
-   ```
-   
    ```      
    P    = [5, 9, 17, 33, 65, 129] 
    ```		
    
-   -----------------------------------------------------------------------------------------------------------------
-   
-    ```
    MC Blocks=40,000
    MC Pass=100
    
    **Expectation values are estimated at the last MC Pass in MC simulations.**
-   ```
+   
    
    **In graham**
    
@@ -33,13 +27,11 @@ Rotational constants are -
        
    Analysis incomplete: Skipped data first 0
    
+   -----------------------------------------------------------------------------------------------------------------
    
  - [x] Simulations for **N=10** at **fixed beta = 0.2 K<sup>-1</sup>**
 
-   -----------------------------------------------------------------------------------------------------------------
-   ```
-   Type of potential: caleng_tip4p_gg.f;   unit: inverse Kelvin
-   ```
+   
    
    ```      
    P = [11, 21, 31, 41, 51, 61, 71, 81, 91, 101] 
