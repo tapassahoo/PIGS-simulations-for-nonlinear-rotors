@@ -60,6 +60,15 @@ Rotational constants are -
    
    - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-RptrVALUEAngstrom-beta0.2Kinv-Blocks20000-Passes100-System10-p-H2O-e0vsbeads*~
    
+   ```
+   self.step       = [2.0, 0.4, 0.3, 0.25, 0.20, 0.20, 0.15, 0.15, 0.15, 0.15] r=[8-10Angstrom]
+   self.step       = [1.0, 0.4, 0.3, 0.25, 0.20, 0.20, 0.15, 0.15, 0.15, 0.15] r = [6-7Angstrom]
+   self.step       = [0.6, 0.4, 0.3, 0.25, 0.20, 0.20, 0.15, 0.15, 0.15, 0.15] r = [5Angstrom]
+   self.step       = [0.4, 0.4, 0.3, 0.25, 0.20, 0.20, 0.15, 0.15, 0.15, 0.15] r = [4Angstrom]
+
+   
+   ```
+   
    Analysis incomplete: Skipped data first 0, 20000, 30000, 35000. Final results are shown for preskip 0.
    
    
