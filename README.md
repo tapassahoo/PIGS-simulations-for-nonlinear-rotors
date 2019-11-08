@@ -37,6 +37,7 @@ Type of potential: **caleng_tip4p_gg.f**;   unit: inverse Kelvin
    - Data stored in **graham**
    
    - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-RptrVALUEAngstrom-tau0.005Kinv-Blocks20000-Passes100-System2-p-H2O-e0vsbeads*~
+   - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-RptrVALUEAngstrom-tau0.005Kinv-Blocks20000-Passes100-System10-p-H2O-e0vsbeads*~
      
    - **self.step in inputFile.py is a list of MC step size for angular DOFs.**
   
