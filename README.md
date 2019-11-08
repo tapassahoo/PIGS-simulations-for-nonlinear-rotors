@@ -38,15 +38,15 @@ Rotational constants are -
 
    -----------------------------------------------------------------------------------------------------------------
    ```
-   Type of potential: caleng_tip4p_gg.f;   unit: inverse Kelvin
+   - Type of potential: caleng_tip4p_gg.f;   unit: inverse Kelvin
    ```
    
    ```      
-   P    = [11, 21, 31, 41, 51, 61, 71, 81, 91, 101] 
+   - P = [11, 21, 31, 41, 51, 61, 71, 81, 91, 101] 
    ```		
    
    ```
-   A set of nearest neighbouring distances r = [2.0, 2.2, 2.4, 2.6, 2.8, 3.0, 3.2, 3.4, 3.6, 3.8, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0]
+   - A set of nearest neighbouring distances r = [2.0, 2.2, 2.4, 2.6, 2.8, 3.0, 3.2, 3.4, 3.6, 3.8, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0]
    ```
    
    -----------------------------------------------------------------------------------------------------------------
@@ -68,9 +68,7 @@ Rotational constants are -
    self.step = [0.6, 0.4, 0.3, 0.25, 0.20, 0.20, 0.15, 0.15, 0.15, 0.15] r = 5.0 Angstrom
    self.step = [0.4, 0.4, 0.3, 0.25, 0.20, 0.20, 0.15, 0.15, 0.15, 0.15] r = 4.0 Angstrom
    self.step = [0.1, 0.12, 0.16, 0.18, 0.20, 0.20, 0.15, 0.15, 0.15, 0.15] r = 3.0 Angstrom
-
-
-   
+   self.step = [0.08, 0.10, 0.12, 0.12, 0.12, 0.12, 0.15, 0.15, 0.15, 0.15] r = 2.8 Angstrom   
    ```
    
    Analysis incomplete: Skipped data from the begining - 0, 10000, 15000. Final results are shown for preskip 0.
