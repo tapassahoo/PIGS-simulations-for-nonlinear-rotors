@@ -10,6 +10,7 @@ Rotational constants are -
 Type of potential: **caleng_tip4p_gg.f**;   unit: inverse Kelvin
 
 -----------------------------------------------------------------------------------------------------------------
+
 - [x] Simulations for **N=2** and **N=10** at **fixed tau = 0.005 K<sup>-1</sup>**
    
    ```      
@@ -46,7 +47,7 @@ Type of potential: **caleng_tip4p_gg.f**;   unit: inverse Kelvin
    
    - Analysis incomplete: Skipped data from the begining - 0, 10000, 15000. Final results are shown for preskip 0.
    
-   -----------------------------------------------------------------------------------------------------------------
+ -----------------------------------------------------------------------------------------------------------------
    
  - [x] Simulations for **N=10** at **fixed beta = 0.2 K<sup>-1</sup>**
    
