@@ -49,9 +49,9 @@ Type of potential: caleng_tip4p_gg.f;   unit: inverse Kelvin
    MC Blocks=20,000
    MC Pass=100
    
-   **Expectation values are estimated at the last MC Pass in MC simulations.**
-   
    ```
+   
+   **Expectation values are estimated at the last MC Pass in MC simulations.**
    
    - Data stored in **graham**
    
