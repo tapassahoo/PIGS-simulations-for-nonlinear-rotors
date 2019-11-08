@@ -46,7 +46,7 @@ Rotational constants are -
    ```		
    
    ```
-   A set of nearest neighbouring distances [2.0, 2.2, 2.4, 2.6, 2.8, 3.0, 3.2, 3.4, 3.6, 3.8, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0]
+   A set of nearest neighbouring distances r = [2.0, 2.2, 2.4, 2.6, 2.8, 3.0, 3.2, 3.4, 3.6, 3.8, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0]
    ```
    
    -----------------------------------------------------------------------------------------------------------------
@@ -58,7 +58,7 @@ Rotational constants are -
    **Expectation values are estimated at the last MC Pass in MC simulations.**
    ```
    
-   - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-Rpt*Angstrom-beta0.2Kinv-Blocks20000-Passes100-System10-p-H2O-e0vsbeads*~
+   - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-RptrVALUEAngstrom-beta0.2Kinv-Blocks20000-Passes100-System10-p-H2O-e0vsbeads*~
    
    Analysis incomplete: Skipped data first 0, 20000, 30000, 35000. Final results are shown for preskip 0.
    
