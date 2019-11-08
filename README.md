@@ -60,7 +60,7 @@ Rotational constants are -
    
    - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-RptrVALUEAngstrom-beta0.2Kinv-Blocks20000-Passes100-System10-p-H2O-e0vsbeads*~
    
-   **self.step in inputFile.py is a list of MC step size for angular DOFs.**
+   - **self.step in inputFile.py is a list of MC step size for angular DOFs.**
   
    ``` 
    self.step = [2.0, 0.4, 0.3, 0.25, 0.20, 0.20, 0.15, 0.15, 0.15, 0.15] r = [8.0-10.0 Angstrom]
