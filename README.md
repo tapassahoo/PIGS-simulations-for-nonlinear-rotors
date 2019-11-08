@@ -10,7 +10,7 @@ Rotational constants are -
 Type of potential: **caleng_tip4p_gg.f**;   unit: inverse Kelvin
 
 -----------------------------------------------------------------------------------------------------------------
-- [x] Simulations for **N=10** at **fixed tau = 0.005 K<sup>-1</sup>**
+- [x] Simulations for **N=2** and **N=10** at **fixed tau = 0.005 K<sup>-1</sup>**
    
    ```      
    P = [11, 21, 31, 41, 51, 61, 71, 81, 91, 101] 
@@ -35,18 +35,13 @@ Type of potential: **caleng_tip4p_gg.f**;   unit: inverse Kelvin
    
    - Data stored in **graham**
    
+   - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-RptrVALUEAngstrom-tau0.005Kinv-Blocks20000-Passes100-System2-p-H2O-e0vsbeads*~
    - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-RptrVALUEAngstrom-tau0.005Kinv-Blocks20000-Passes100-System10-p-H2O-e0vsbeads*~
    
    - **self.step in inputFile.py is a list of MC step size for angular DOFs.**
   
    ``` 
-   self.step = [2.0, 0.4, 0.3, 0.25, 0.20, 0.20, 0.15, 0.15, 0.15, 0.15] r = [8.0-10.0 Angstrom]
-   self.step = [1.0, 0.4, 0.3, 0.25, 0.20, 0.20, 0.15, 0.15, 0.15, 0.15] r = [6.0-7.0 Angstrom]
-   self.step = [0.6, 0.4, 0.3, 0.25, 0.20, 0.20, 0.15, 0.15, 0.15, 0.15] r = 5.0 Angstrom
-   self.step = [0.4, 0.4, 0.3, 0.25, 0.20, 0.20, 0.15, 0.15, 0.15, 0.15] r = 4.0 Angstrom
-   self.step = [0.1, 0.12, 0.16, 0.18, 0.20, 0.20, 0.15, 0.15, 0.15, 0.15] r = 3.0 Angstrom
-   self.step = [0.08, 0.10, 0.12, 0.12, 0.12, 0.12, 0.15, 0.15, 0.15, 0.15] r = [2.6, 2.8] Angstrom 
-   self.step = [0.05, 0.06, 0.08, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1] r = [2.2, 2.4] Angstrom
+   self.step = [0.30 for i in range(10)] r = [7.0, 8.0, 9.0, 10.0] Angstrom
    ```
    
    - Analysis incomplete: Skipped data from the begining - 0, 10000, 15000. Final results are shown for preskip 0.
