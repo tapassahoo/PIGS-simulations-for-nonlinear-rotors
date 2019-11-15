@@ -85,9 +85,9 @@ Type of potential: **caleng_tip4p_gg.f**;   unit: inverse Kelvin
    - **self.step in inputFile.py is a list of MC step size for angular DOFs.**
   
    ``` 
-   self.step = [2.0, 0.4, 0.3, 0.25, 0.20, 0.20, 0.15, 0.15, 0.15, 0.15] r = [8.0-10.0 Angstrom]
-   self.step = [1.0, 0.4, 0.3, 0.25, 0.20, 0.20, 0.15, 0.15, 0.15, 0.15] r = [6.0-7.0 Angstrom]
-   self.step = [0.6, 0.4, 0.3, 0.25, 0.20, 0.20, 0.18, 0.15, 0.15, 0.15] r = 5.0 Angstrom
+   self.step = [2.0, 0.4, 0.3, 0.25, 0.20, 0.20, 0.15, 0.15, 0.15, 0.15] r = [8.0-10.0] Angstrom
+   self.step = [1.0, 0.4, 0.3, 0.25, 0.20, 0.20, 0.15, 0.15, 0.15, 0.15] r = [6.0-7.0] Angstrom
+   self.step = [0.6, 0.4, 0.3, 0.25, 0.20, 0.20, 0.18, 0.15, 0.15, 0.15] r = [5.0-5.9] Angstrom
    self.step = [0.4, 0.4, 0.3, 0.25, 0.20, 0.20, 0.15, 0.15, 0.15, 0.15] r = [4.0-5.0] Angstrom
    self.step = [0.3, 0.3, 0.3, 0.25, 0.20, 0.20, 0.15, 0.15, 0.15, 0.15] r = 3.8 3.9 Angstrom
    self.step = [0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.15, 0.15, 0.15, 0.15] r = 3.4, 3.5, 3.6, 3.7 Angstrom
