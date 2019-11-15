@@ -57,19 +57,13 @@ Type of potential: **caleng_tip4p_2005.f**;   unit: inverse Kelvin
    
  - [x] Simulations for **N=10** at **fixed beta = 0.2 K<sup>-1</sup>**
    
-   ```      
-   P = [11, 21, 31, 41, 51, 61, 71, 81, 91, 101] 
-   ```		
-   
    - A set of nearest neighbouring distances - 
    
    ```
    
    r = [2.2*i for i in range(79)] Angstrom
-   
-   ```
-   
-   ```
+        
+   P = [11, 21, 31, 41, 51, 61, 71, 81, 91, 101] 
    
    MC Blocks=20,000
    MC Pass=100
