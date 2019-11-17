@@ -21,7 +21,7 @@ Type of potential: **caleng_tip4p_2005.f**;   unit: inverse Kelvin
     
    P = [11, 21, 31, 41, 51, 61, 71, 81, 91, 101] 
    
-   MC Blocks=20,000
+   MC Blocks=10,000
    MC Pass=100
    
    ```
