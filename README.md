@@ -21,7 +21,7 @@ Type of potential: **caleng_tip4p_2005.f**;   unit: inverse Kelvin
    
    ```
    
-   r = [2.5, 3.0, 3.5, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0] Angstrom
+   r = [2.5, 3.0, 3.5, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0] Angstrom
     
    P = [11, 21, 31, 41, 51, 61, 71, 81, 91, 101] 
    
@@ -44,7 +44,7 @@ Type of potential: **caleng_tip4p_2005.f**;   unit: inverse Kelvin
    self.step = [0.30 for i in range(10)] r = [7.0, 8.0, 9.0, 10.0] Angstrom
    self.step = [0.33 for i in range(10)] r = 6.0 Angstrom
    self.step = [0.3 for i in range(10)]  r = 5.0 Angstrom
-   self.step = [0.2 for i in range(10)]  r = 4.0 Angstrom
+   self.step = [0.2 for i in range(10)]  r = [3.5, 4.0] Angstrom
    self.step = [0.15 for i in range(10)] r = 3.0 Angstrom
    self.step = [0.1 for i in range(10)] r = 2.5 Angstrom
    self.step = [0.07 for i in range(10)] r = 2.0 Angstrom
