@@ -17,7 +17,7 @@ Type of potential: **caleng_tip4p_2005.f**;   unit: inverse Kelvin
    
    ```
    
-   r = [2.5, 3.0, 3.5, 4.0, 5.0, 6.0] Angstrom
+   r = [2.5, 3.0, 3.5, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0] Angstrom
     
    P = [11, 21, 31, 41, 51, 61, 71, 81, 91, 101] 
    
