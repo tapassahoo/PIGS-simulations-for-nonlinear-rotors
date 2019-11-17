@@ -21,11 +21,9 @@ Type of potential: **caleng_tip4p_2005.f**;   unit: inverse Kelvin
    
    ```
    
-   r = [2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0] Angstrom
-   
-   ```
-   
-   ```
+   r = [2.5, 3.0, 3.5, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0] Angstrom
+    
+   P = [11, 21, 31, 41, 51, 61, 71, 81, 91, 101] 
    
    MC Blocks=20,000
    MC Pass=100
@@ -36,9 +34,9 @@ Type of potential: **caleng_tip4p_2005.f**;   unit: inverse Kelvin
    
    - Data stored in **graham**
    
-   - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-RptrVALUEAngstrom-tau0.005Kinv-Blocks20000-Passes100-System2-p-H2O-e0vsbeads*~ ***!Done***
+   - ~/scratch/tapas/nonlinear-rotors/PIGS-TIP4P-2005-RotDOFs-RptrVALUEAngstrom-tau0.005Kinv-Blocks10000-Passes100-System2-p-H2O-e0vsbeads*~ ***!Done***
    
-   - ~/scratch/tapas/nonlinear-rotors/PIGS-RotDOFs-RptrVALUEAngstrom-tau0.005Kinv-Blocks20000-Passes100-System10-p-H2O-e0vsbeads*~
+   - ~/scratch/tapas/nonlinear-rotors/PIGS-TIP4P-2005-RotDOFs-RptrVALUEAngstrom-tau0.005Kinv-Blocks10000-Passes100-System10-p-H2O-e0vsbeads*~
      
    - **self.step in inputFile.py is a list of MC step size for angular DOFs.**
   
@@ -48,6 +46,7 @@ Type of potential: **caleng_tip4p_2005.f**;   unit: inverse Kelvin
    self.step = [0.3 for i in range(10)]  r = 5.0 Angstrom
    self.step = [0.2 for i in range(10)]  r = 4.0 Angstrom
    self.step = [0.15 for i in range(10)] r = 3.0 Angstrom
+   self.step = [0.1 for i in range(10)] r = 2.5 Angstrom
    self.step = [0.07 for i in range(10)] r = 2.0 Angstrom
    ```
    
