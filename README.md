@@ -241,5 +241,7 @@ R    = 10.05 Angstrom
    Analysis complete: Final result is esimated after skipping 0 lines from the begining.  
    
   
+./symrho.x  0.37  128  3 0  0   5.1820   0.851794  66
    
+
 
